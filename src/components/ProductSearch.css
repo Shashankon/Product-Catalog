@@ -1,0 +1,17 @@
+.form-control {
+    max-width: 400px;
+  }
+  
+  .card {
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .product-image {
+    max-height: 150px;
+    object-fit: contain;
+  }
+  

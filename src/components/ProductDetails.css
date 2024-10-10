@@ -1,0 +1,9 @@
+.container {
+    padding-top: 40px;
+  }
+  
+  .img-fluid {
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
